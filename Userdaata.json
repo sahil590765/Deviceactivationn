@@ -16,5 +16,11 @@
         "key": "faisu",
         "expirydate": "13-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6739b200dfe7c67e",
+        "key": "R9",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
     }
 ]
